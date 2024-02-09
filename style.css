@@ -294,6 +294,11 @@ a, a:active {
     right: 2%;
 }
 
+.text-sm {
+    /*font-size: 14px;*/
+    line-height: 18px;
+}
+
 @media (max-width: 1100px) {
     .additional {
         display: block;
